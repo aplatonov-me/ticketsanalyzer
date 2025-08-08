@@ -1,3 +1,5 @@
+Prepare your tickets.json before running!
+
 # JRE 21 
 1. Download and unzip https://github.com/user-attachments/files/21684102/TicketAnalyzer-1.0-SNAPSHOT-jar-with-dependencies.zip
 2. Execute:
