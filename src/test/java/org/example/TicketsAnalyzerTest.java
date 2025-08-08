@@ -1,9 +1,9 @@
-package com.example;
+package org.example;
 
-import org.example.TicketsAnalyzer;
 import org.example.exceptions.TicketsNotFoundException;
 import org.example.schema.Ticket;
 import org.example.schema.TicketsData;
+import org.example.services.TicketsAnalyzer;
 import org.junit.Test;
 
 import java.io.IOException;
